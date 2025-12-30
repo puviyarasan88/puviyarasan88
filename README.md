@@ -7,7 +7,7 @@
 
 <!-- TYPING ANIMATION -->
 <a href="https://github.com/puviyarasan88">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&repeat=true&width=800&height=45&lines=Passionate%20in%20front-end%20development(Skills%20-%20HTML%2C%20CSS%2C%20JavaScript%2C%20React%2C%20and%20Bootstrap)%20%26%20%20Automation%20(%20Selenium%2C%20Rational%20functional%20tester%2C%20RestAss%2C%20Appium)" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&repeat=true&width=800&height=45&lines=%20Automation-%20Selenium%2CPlaywright%2C%20RestAssured%2C%20Appium" alt="Typing SVG" />
 </a>
 
 <!-- PROFILE BADGES -->
@@ -29,17 +29,15 @@
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Technologist" width="30" height="30" /> About Me
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=puviyarasan88&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=8" width="320" alt="Top Languages"/>
-
 
 
 💼 **14 years of experience**
 
-🔭 Currently working on **[typescript-program](https://github.com/puviyarasan88/typescript-program)**
+🔭 Currently working on **[Playwright-typescript-framework](https://github.com/puviyarasan88/playwright-typescript.git)**
 
-🌱 Currently learning **React**
+🌱 Currently learning **React devlopment skills**
 
-💬 Ask me about **SDET | Web Automation - Selenium, Playwright, Cypress | Mobile Automation - Espresso, XCUITEST, Appium, SeeTest, Perfecto | API Automation - RestAssured, Jmeter | Desktop Automation - Rational Functional Tester |**
+💬 **SDET | Web Automation - Selenium, Playwright, Cypress | Mobile Automation - Espresso, XCUITEST, Appium, SeeTest, Perfecto | API Automation - RestAssured, Jmeter | Desktop Automation - Rational Functional Tester |**
 
 
 
@@ -62,10 +60,6 @@
   <img src="https://streak-stats.demolab.com?user=puviyarasan88&theme=tokyonight&hide_border=true&background=0d1117&stroke=70a5fd&ring=70a5fd&fire=ff6b6b&currStreakLabel=70a5fd" alt="GitHub Streak"/>
 </div>
 
-<!-- GitHub Trophies -->
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=puviyarasan88&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=5" alt="Trophy"/>
-</div>
 
 ---
 
